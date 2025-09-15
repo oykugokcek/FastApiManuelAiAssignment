@@ -1,0 +1,62 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test outputs
+test_results/
+test_reports/
+*.html
+coverage.xml
+.coverage.*
+pytest_cache/
+
+# Performance test results
+locust_reports/
+performance_results/
+
+# IDE and environment
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+*.out
+*.err
